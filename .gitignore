@@ -13,3 +13,4 @@ __pycache__/
 *.csv
 
 faiss_index/
+requirements_win.txt
