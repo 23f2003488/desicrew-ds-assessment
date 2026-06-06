@@ -9,7 +9,6 @@ __pycache__/
 
 # Data and System Files
 .DS_Store
-*.xlsx
 *.csv
 
 faiss_index/
